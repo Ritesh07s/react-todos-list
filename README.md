@@ -1,7 +1,17 @@
-# Getting Started with Create React App
+# Getting Started with Create React Todo list app
+A clean React to-do list application with persistence and reusable components.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+Add delete todos complete
+prevents empty todos
+State saved in `localStorage` so tasks survive reloads
+Clear completed todos
+Responsive layout
 
+## Tech Stack
+React (hooks)
+JavaScript
+CSS
 ## Available Scripts
 
 In the project directory, you can run:
